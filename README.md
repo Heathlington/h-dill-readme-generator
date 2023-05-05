@@ -1,9 +1,9 @@
-# y'
+# README Generator
 
-![](https://img.shields.io/badge/license-Apache-blue)
+![](https://img.shields.io/badge/license-MIT-blue)
 
 ## Description
-pp
+Tp create a README Generator inside the terminal
 
 ## Table of Contents
 - [Installation](#installation)
@@ -12,19 +12,19 @@ pp
 - [License](#license)
 
 ## Installation
-q
+Via GitHub
 
 ## Usage
-rr
+When in the console questions are asked one at a time that will fill in a README.md file.
 
 ## License
-Apache
+MIT
 
 ## Contributing
-v
+Eric Hoversten, tutor, and Eric Sayer, Instructor
 
 ## Tests
-w
+Testing was ran as development occurred
 
 ## Questions
-q
+Me
